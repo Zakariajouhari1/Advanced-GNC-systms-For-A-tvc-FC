@@ -1,4 +1,4 @@
-# TVC Flight Computer - Project Documentation
+# TVC Flight Computer 
 
 ## 1. Project Overview
 ### 1.1 Purpose & Objectives
